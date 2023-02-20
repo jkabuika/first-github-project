@@ -8,8 +8,14 @@
 }
 
 nav {
+    font-size: 20px;   
     display: flex;
     justify-content: flex-end;
+    margin: 15px;
+}
+
+ul {
+    padding: 8px;
 }
 
 button {
