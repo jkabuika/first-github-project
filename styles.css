@@ -7,6 +7,8 @@
     box-sizing: border-box;
 }
 
+/* NAVIGATION */
+
 nav {
     font-size: 20px;   
     display: flex;
@@ -17,6 +19,19 @@ nav {
 ul {
     padding: 8px;
 }
+
+/* HEADERS */
+
+h1 {
+    color: #10A7FE;
+    padding: 2px;
+}
+
+h2 {
+
+}
+
+/* MAIN HOME PAGE CONTENT */ 
 
 button {
     font-size: 24px;
