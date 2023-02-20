@@ -22,13 +22,17 @@ ul {
 
 /* HEADERS */
 
-h1 {
-    color: #10A7FE;
+h1,
+h2 {
     padding: 2px;
 }
 
-h2 {
+h1 {
+    color: #10A7FE;
+}
 
+h2 {
+color: #242424;
 }
 
 /* MAIN HOME PAGE CONTENT */ 
