@@ -7,6 +7,19 @@
     box-sizing: border-box;
 }
 
+/* NAVIGATION */
+
+nav {
+    font-size: 20px;   
+    display: flex;
+    justify-content: flex-end;
+    margin: 15px;
+}
+
+ul {
+    padding: 8px;
+}
+
 /* HEADERS */
 
 h1, h2, p {
